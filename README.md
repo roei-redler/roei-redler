@@ -11,7 +11,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=roei-redler&show_icons=true" />
 </picture>
-### Hi there 👋
+!### Hi there 👋
 
 My name is Roei Redler, and I work with Microsoft solutions as a specialist in Power Platform and Dynamics 365. I am passionate about building innovative solutions that meet the unique needs of businesses. Find out more about me & feel free to connect with me here:
 
