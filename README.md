@@ -41,7 +41,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-[![My project logo]([https://example.com/images/logo.png](https://stoneridgesoftware.com/wp-content/uploads/2023/03/Solutions-Partner-BizApps.png))](https://example.com/)
+[![My project logo]([https://example.com/images/logo.png](https://stoneridgesoftware.com/wp-content/uploads/2023/03/Solutions-Partner-BizApps.png)]
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=roei-redler&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roei-redler&hide=TeX&layout=compact)
 <picture>
