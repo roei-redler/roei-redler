@@ -47,4 +47,4 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=roei-redler&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roei-redler&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roei-redler.roei-redler)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froei-redler%2Froei-redler&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Froei-redler%2Froei-redler)
