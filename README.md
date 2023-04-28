@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roei Redler, and I work with Microsoft solutions as a specialist in Power Platform and Dynamics 365. I am passionate about building innovative solutions that meet the unique needs of businesses. Find out more about me & feel free to connect with me here:
+<span style="font-weight: bold;">My name is Roei Redler</span>, and I work with <span style="font-style: italic;">Microsoft solutions</span> as a specialist in <span style="color:blue; text-decoration: underline;">Power Platform</span> and <span style="color:blue; text-decoration: underline;">Dynamics 365</span>. I am passionate about building <span style="font-style: italic;">innovative solutions</span> that meet the unique needs of businesses. Find out more about me & feel free to <a href="#" style="text-decoration: none; color: blue;">connect with me here</a>.
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/)
 <!-- 
