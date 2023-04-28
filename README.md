@@ -29,9 +29,6 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 ## ⚡ Technologies
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/-Power%20Platform-2B579A?style=flat-square&logo=microsoft-power-platform&logoColor=white&color=green)
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-7FBA00?style=flat-square&logo=microsoft-power-apps&logoColor=white&color=purple)
