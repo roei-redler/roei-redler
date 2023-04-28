@@ -18,7 +18,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 --><br>
 
 
-
+<a href="https://www.microsoft.com/en-us/solution-providers/home"><img src="https://stoneridgesoftware.com/wp-content/uploads/2023/03/Solutions-Partner-BizApps.png" alt="Microsoft Solutions Partner" width="30%" height="30%"></a>
 
 
 
@@ -40,6 +40,8 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=roei-redler&count_private=true&show_icons=true&include_all_commits=true)
