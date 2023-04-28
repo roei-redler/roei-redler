@@ -9,17 +9,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 --><br>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=roei-redler&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=roei-redler&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=roei-redler&show_icons=true" />
-</picture><br>
+
 
 
 
