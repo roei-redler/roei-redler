@@ -6,7 +6,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 🔭 I’m currently working on improving my skills in cloud technologies and machine learning.
 
-🌱 I’m currently learning Python and Azure.
+🌱 I’m currently learning Power Platform and Azure.
 
 📫 Feel free to connect with me on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/)
 
