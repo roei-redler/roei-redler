@@ -8,11 +8,11 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 🌱 I’m currently learning Python and Azure.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roeiredler/) or [Twitter](https://twitter.com/RoeiRedler).
+📫 Feel free to connect with me on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/)
 
 ⚡ Fun fact: I'm also a hobbyist musician and love playing the guitar in my free time.
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/)
+
 <!-- 
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
