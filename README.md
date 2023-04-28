@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-<span style="font-weight: bold;">My name is Roei Redler</span>, and I work with <span style="font-style: italic;">Microsoft solutions</span> as a specialist in <span style="color:blue; text-decoration: underline;">Power Platform</span> and <span style="color:blue; text-decoration: underline;">Dynamics 365</span>. I am passionate about building <span style="font-style: italic;">innovative solutions</span> that meet the unique needs of businesses. Find out more about me & feel free to <a href="#" style="text-decoration: none; color: blue;">connect with me here</a>.
+# Hi there 👋
+
+My name is Roei Redler, and I work with Microsoft solutions as a specialist in Power Platform and Dynamics 365. I am passionate about building innovative solutions that meet the unique needs of businesses.
+
+🔭 I’m currently working on improving my skills in cloud technologies and machine learning.
+
+🌱 I’m currently learning Python and Azure.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roeiredler/) or [Twitter](https://twitter.com/RoeiRedler).
+
+⚡ Fun fact: I'm also a hobbyist musician and love playing the guitar in my free time.
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/)
 <!-- 
