@@ -22,6 +22,8 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
 
+
+
 ## ⚡ Technologies
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -31,6 +33,8 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 ![Power Platform](https://img.shields.io/badge/-Power%20Platform-2B579A?style=flat-square&logo=microsoft-power-platform&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Power Apps](https://img.shields.io/badge/-Power%20Apps-7FBA00?style=flat-square&logo=microsoft-power-apps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-6234B4?style=flat-square&logo=microsoft-power-automate&logoColor=white)
+![Power Virtual Agents](https://img.shields.io/badge/-Power%20Virtual%20Agents-6234B4?style=flat-square&logo=microsoft-power-virtual-agents&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/-Dynamics%20365-002050?style=flat-square&logo=microsoft-dynamics-365&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
