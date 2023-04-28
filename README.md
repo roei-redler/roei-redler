@@ -8,7 +8,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 📫 Feel free to connect with me on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/)
 
-⚡ Fun fact: I'm also a hobbyist musician and love playing the guitar in my free time.
+<!--⚡ Fun fact: I'm also a hobbyist musician and love playing the guitar in my free time.-->
 
 
 <!-- 
