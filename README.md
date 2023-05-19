@@ -68,3 +68,10 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roei-redler)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=roei-redler)](https://git.io/streak-stats)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=roei-redler&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
