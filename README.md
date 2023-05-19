@@ -18,14 +18,9 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 --><br>
 
 
-<p align="center">
-  <a href="https://partner.microsoft.com/en-us/partnership/specialization">
-    <img src="https://nz.insight.com/content/insight-web/en_NZ/shop/partner/microsoft/jcr%3Acontent/bottom-inner-full-width/column_layout_107846_321210190/-column-1/column_layout_942161503/-column-1/insight_image.img.png/1665372081606.png" 
-      alt="Microsoft Solutions Partner" 
-      width="40%" 
-      height="40%" 
-      style="max-width: 100%; height: auto; display: block; margin: auto;  height: 40%; @media(max-width: 400px) { height: 60%!important; }">
-  </a>
+
+<p align="center"><a href="https://partner.microsoft.com/en-us/partnership/specialization"><img src="https://nz.insight.com/content/insight-web/en_NZ/shop/partner/microsoft/jcr%3Acontent/bottom-inner-full-width/column_layout_107846_321210190/-column-1/column_layout_942161503/-column-1/insight_image.img.png/1665372081606.png" alt="Microsoft Solutions Partner" width="40%" height="40%"></a>
+
 </p>
 
 
