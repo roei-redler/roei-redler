@@ -22,7 +22,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 <a href="https://partner.microsoft.com/en-us/partnership/specialization"><img src="https://nz.insight.com/content/insight-web/en_NZ/shop/partner/microsoft/jcr%3Acontent/bottom-inner-full-width/column_layout_107846_321210190/-column-1/column_layout_942161503/-column-1/insight_image.img.png/1665372081606.png" alt="Microsoft Solutions Partner" width="40%" height="40%"></a>
 
-
+<img src="https://raw.githubusercontent.com/Tanv33/tanv33/output/github-contribution-grid-snake.gif" alt="GitHub contribution grid snake">
 
 
 
@@ -63,4 +63,5 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 <img src="https://github-readme-stats.vercel.app/api?username=roei-redler&show_icons=true" />
 </picture><br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froei-redler%2Froei-redler&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froei-redler%2Froei-redler&countColor=%23263759)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=roei-redler)](https://github.com/ryo-ma/github-profile-trophy)
