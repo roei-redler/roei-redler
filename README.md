@@ -24,7 +24,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
       alt="Microsoft Solutions Partner" 
       width="40%" 
       height="40%" 
-      style="max-width: 100%; height: auto; display: block; margin: auto; width: 40%; height: 40%; @media(max-width: 400px) { width: 60%!important; height: 60%!important; }">
+      style="max-width: 100%; height: auto; display: block; margin: auto;  height: 40%; @media(max-width: 400px) { height: 60%!important; }">
   </a>
 </p>
 
