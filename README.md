@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=roei-redler&color=green)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froei-redler%2Froei-redler&countColor=%23263759)
 # Hi there 👋
 
 My name is Roei Redler, and I work with Microsoft solutions as a specialist in Power Platform and Dynamics 365. I am passionate about building innovative solutions that meet the unique needs of businesses.
@@ -64,6 +64,6 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 <img src="https://github-readme-stats.vercel.app/api?username=roei-redler&show_icons=true" />
 </picture><br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froei-redler%2Froei-redler&countColor=%23263759)<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=roei-redler)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=roei-redler)](https://git.io/streak-stats)
