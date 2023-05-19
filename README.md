@@ -6,7 +6,7 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 
 🌱 I’m currently learning Power Platform and Azure.
 
-📫 Feel free to connect with me on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/) or [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]([[https://your.slack.com](https://open-workspace-talk.slack.com/archives/C055CNY00G5)]([https://join.slack.com/t/slack-3rq5168/shared_invite/zt-1u7fh0y5g-EbKs64zedoXVV36v83aJbA](https://open-workspace-talk.slack.com/archives/C055CNY00G5)))
+📫 Feel free to connect with me on [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roei-redler/) or [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]([[https://your.slack.com](https://open-workspace-talk.slack.com/archives/C055CNY00G5)]([https://join.slack.com/t/slack-3rq5168/shared_invite/zt-1u7fh0y5g-EbKs64zedoXVV36v83aJbA]([https://open-workspace-talk.slack.com/archives/C055CNY00G5](https://open-workspace-talk.slack.com/archives/C055CNY00G5))))
 
 <!--⚡ Fun fact: I'm also a hobbyist musician and love playing the guitar in my free time.-->
 
