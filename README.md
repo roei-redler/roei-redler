@@ -18,10 +18,11 @@ My name is Roei Redler, and I work with Microsoft solutions as a specialist in P
 --><br>
 
 
+<img alt="Coder GIF" height="90%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<p align="center"><a href="https://partner.microsoft.com/en-us/partnership/specialization"><img src="https://nz.insight.com/content/insight-web/en_NZ/shop/partner/microsoft/jcr%3Acontent/bottom-inner-full-width/column_layout_107846_321210190/-column-1/column_layout_942161503/-column-1/insight_image.img.png/1665372081606.png" alt="Microsoft Solutions Partner" width="40%" height="40%"></a>
+<a href="https://partner.microsoft.com/en-us/partnership/specialization"><img src="https://nz.insight.com/content/insight-web/en_NZ/shop/partner/microsoft/jcr%3Acontent/bottom-inner-full-width/column_layout_107846_321210190/-column-1/column_layout_942161503/-column-1/insight_image.img.png/1665372081606.png" alt="Microsoft Solutions Partner" width="40%" height="40%"></a>
 
-</p>
+
 
 
 
